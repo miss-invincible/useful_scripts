@@ -1,6 +1,6 @@
 import time
 import os
-bday_data = {"prabhat":"23/10", "me":"29/09","test":"3/1"}
+bday_data = {"friend1":"23/10", "friend2":"29/09","friend3":"3/1"}
 
 def number_padding(digits_req,number_to_pad):
 	min_val = 1
